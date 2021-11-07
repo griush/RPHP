@@ -18,9 +18,6 @@
                 $data = $statement->fetchAll();
                 return $data;
             }
-
         }
-
     }
-
 ?>
